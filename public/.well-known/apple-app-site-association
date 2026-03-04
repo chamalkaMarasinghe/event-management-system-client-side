@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "7S4PL4UU98.org.icieos.kidsplan.app",
+        "paths": [ "/events/*",  "/payment", "/payment-successful"]
+      }
+    ]
+  }
+}

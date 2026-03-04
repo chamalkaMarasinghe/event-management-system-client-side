@@ -1,0 +1,14 @@
+[
+    {
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "pl.kidsplan.app",
+            "sha256_cert_fingerprints": [
+                "39:6E:3C:55:A1:74:FB:F0:FF:E7:4C:D5:59:BE:D5:BA:6B:02:98:90:C4:AA:50:CA:83:87:72:B2:17:8F:04:D6",
+                "A6:A9:6F:38:32:3E:0A:E1:0A:52:98:E5:A6:3E:08:26:B9:C8:FD:E6:3A:8B:24:DC:61:38:65:7C:2E:D9:1F:D2",
+                "37:22:C0:27:02:AF:22:F5:E9:E0:41:FE:F4:0E:E6:CE:82:80:34:85:4B:2D:2E:BD:E8:D4:2A:2C:0F:DE:BF:CD"
+            ]
+        }
+    }
+]

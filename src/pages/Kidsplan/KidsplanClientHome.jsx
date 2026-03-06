@@ -238,7 +238,7 @@ const KidsplanClientHome = () => {
                             language,
                             "home_page",
                             "growBusinessTitle"
-                        ).split("k")[0]}{" "}
+                        )?.split("k")[0]}{" "}
                           <span className="text-primary">kidsplan</span>
                   </div>
                   <div className="mt-2 md:mt-6 font-roboto font-normal text-[20px] leading-[100%] text-black lg:mt-10 text-opacity-70">

@@ -121,6 +121,6 @@ const router = createBrowserRouter([
         element: <NotFoundPage/>,
         errorElement: <ErrorOccurPage/>
     },
-]);
+], { basename: "/app" } );
 
 export default router;
